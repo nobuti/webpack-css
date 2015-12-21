@@ -11,8 +11,8 @@ const Container = React.createClass({
         <Header />
         <Footer />
       </div>
-    )
+    );
   }
-})
+});
 
-export default Container
+export default Container;

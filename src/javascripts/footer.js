@@ -8,8 +8,8 @@ const Footer = React.createClass({
       <div className='footer'>
         Footer
       </div>
-    )
+    );
   }
-})
+});
 
 export default Footer;

@@ -9,8 +9,8 @@ const Header = React.createClass({
       <div className='header u-clearfix'>
         Header
       </div>
-    )
+    );
   }
-})
+});
 
 export default Header;
