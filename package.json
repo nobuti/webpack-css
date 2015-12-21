@@ -1,0 +1,34 @@
+{
+  "name": "webpack-css",
+  "version": "1.0.0",
+  "description": "Example showing a webpack CSS build",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nobuti/webpack-css.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nobuti/webpack-css/issues"
+  },
+  "homepage": "https://github.com/nobuti/webpack-css",
+  "dependencies": {
+    "autoprefixer": "^6.0.3",
+    "babel-core": "^6.1.4",
+    "babel-loader": "^6.1.0",
+    "babel-preset-es2015": "^6.1.4",
+    "babel-preset-react": "^6.1.4",
+    "css-loader": "^0.23.0",
+    "extract-text-webpack-plugin": "^0.9.0",
+    "node-sass": "^3.4.1",
+    "postcss-loader": "^0.8.0",
+    "react": "^0.14.1",
+    "sass-loader": "^3.1.1",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.6"
+  }
+}
